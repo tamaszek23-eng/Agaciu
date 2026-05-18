@@ -40,7 +40,7 @@ def login():
 
 <div style="text-align:center;">
 
-<div class="heart">&#10084;</div>
+<div class="heart">&#9829;</div>
 
 <h2 style="font-size:90px;">
 Dziękuję że jesteś, Kocham Cię 🙂
