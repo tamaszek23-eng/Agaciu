@@ -32,7 +32,7 @@ def login():
 }
 
 .heart {
-    font-size: 160px;
+    font-size: 250px;
     animation: pulse 1s infinite;
 }
 </style>
