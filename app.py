@@ -24,12 +24,33 @@ def login():
 
     if login == LOGIN and password == PASSWORD:
         return '''
-	<div style="text-align:center;">
-        <h1 style="font-size:80px;">❤️</h1>
-        <h2 style="font-size:60px;">Dziękuję że jesteś, Kocham Cię 🙂</h2>
-        <p style="font-size:30px;">To była ukryta wiadomość tylko dla Ciebie.</p>
-	</div>
-        '''
+	<style>
+	@keyframes pulse {
+    		0% { transform: scale(1); }
+    		50% { transform: scale(1.3); }
+    		100% { transform: scale(1); }
+}
+
+.heart {
+    font-size: 160px;
+    animation: pulse 1s infinite;
+}
+</style>
+
+<div style="text-align:center;">
+
+<div class="heart">❤️</div>
+
+<h2 style="font-size:60px;">
+Dziękuję że jesteś, Kocham Cię 🙂
+</h2>
+
+<p style="font-size:30px;">
+To była ukryta wiadomość tylko dla Ciebie.
+</p>
+
+</div>
+'''
 
     return '<h2>Zły login lub hasło 😄</h2>'
 
