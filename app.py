@@ -33,6 +33,7 @@ def login():
 
 .heart {
     font-size: 250px;
+	color: red;
     animation: pulse 1s infinite;
 }
 </style>
@@ -41,7 +42,7 @@ def login():
 
 <div class="heart">&#10084;</div>
 
-<h2 style="font-size:60px;">
+<h2 style="font-size:90px;">
 Dziękuję że jesteś, Kocham Cię 🙂
 </h2>
 
