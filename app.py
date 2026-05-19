@@ -3,7 +3,7 @@ from flask import Flask, request
 app = Flask(__name__)
 
 LOGIN = "agaciu"
-PASSWORD = "wielemuch"
+PASSWORD = "wieleMuch"
 
 @app.route('/')
 def home():
