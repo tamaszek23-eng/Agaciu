@@ -1,6 +1,10 @@
-from flask import Flask, request
+from flask import Flask, request, send_from_directory
 
 app = Flask(__name__)
+
+@app.route('/AGACIU.mp3')
+def muzyka():
+	return send_fron_directory('.','AGACIU.mp3')
 
 LOGIN = "agaciu"
 PASSWORD = "wieleMuch"
@@ -41,6 +45,10 @@ def login():
 <div style="text-align:center;">
 
 <div class="heart">&#9829;</div>
+
+<audio controls autoplay loop>
+	<source src="/AGACIU.mp3" type="audio/mpeg">
+</audio>
 
 <h2 style="font-size:90px;">
 Dziękuję że jesteś, Kocham Cię 🙂
