@@ -49,12 +49,14 @@ Dziękuję że jesteś, Kocham Cię 🙂
 <p style="font-size:30px;">
 To była ukryta wiadomość tylko dla Ciebie.
 </p>
+
 <p style="font-size:60px;">
-Bo tylko dzięki Tobie Me serce bije dziś
-Z popiołów wstałem Nauczyłaś mnie żyć
-I ja już bez Ciebie nie umiem śnić
-Bo tylko przy Tobie cokolwiek ma sens
+Bo tylko dzięki Tobie Me serce bije dziś<br>
+Z popiołów wstałem Nauczyłaś mnie żyć<br>
+I ja już bez Ciebie nie umiem śnić<br>
+Bo tylko przy Tobie cokolwiek ma sens<br>
 </p>
+
 </div>
 '''
 
