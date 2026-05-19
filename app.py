@@ -53,7 +53,7 @@ To była ukryta wiadomość tylko dla Ciebie.
 <p style="font-size:60px;">
 Bo tylko dzięki Tobie Me serce bije dziś<br>
 Z popiołów wstałem Nauczyłaś mnie żyć<br>
-I ja już bez Ciebie nie umiem śnić<br>
+I dziś już nie umiem bez Ciebie śnić<br>
 Bo tylko przy Tobie cokolwiek ma sens<br>
 Gdy świat się zawali ja nie poddam się<br>
 Gdy zabraknie Ci sił ja podniosę Cię
