@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/AGACIU.mp3')
 def muzyka():
-	return send_fron_directory('.','AGACIU.mp3')
+	return send_from_directory('.','AGACIU.mp3')
 
 LOGIN = "agaciu"
 PASSWORD = "wieleMuch"
