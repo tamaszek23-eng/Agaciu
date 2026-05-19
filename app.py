@@ -55,6 +55,8 @@ Bo tylko dzięki Tobie Me serce bije dziś<br>
 Z popiołów wstałem Nauczyłaś mnie żyć<br>
 I ja już bez Ciebie nie umiem śnić<br>
 Bo tylko przy Tobie cokolwiek ma sens<br>
+Gdy świat się zawali ja nie poddam się<br>
+Gdy zabraknie Ci sił ja podniosę Cię
 </p>
 
 </div>
